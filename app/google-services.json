@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026395040678",
+    "project_id": "degymfitness-d0dad",
+    "storage_bucket": "degymfitness-d0dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026395040678:android:a98b0951ce3eb26aa2fd67",
+        "android_client_info": {
+          "package_name": "com.mx.gymfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026395040678-5lg3bm6chh8rfss6c3jqpd8q39asmns9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mx.gymfitness",
+            "certificate_hash": "feeac79a4826923da0f31c140ac6cd615d4aaa00"
+          }
+        },
+        {
+          "client_id": "1026395040678-clh9a01nkrp2mltui5h8dlidoevuid4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2_deAY_-84rH44zvoZwzLmaCOEvSVGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026395040678-clh9a01nkrp2mltui5h8dlidoevuid4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
